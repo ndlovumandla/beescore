@@ -316,7 +316,7 @@ The calculator guides you through a **6-step wizard**:
 1. **Company Info** — turnover, NPAT, employee count, leviable amount
 2. **Ownership** — Black voting rights, economic interest, equity values
 3. **Management Control** — headcounts per management category
-4. **Skills Development** — training spend and learner counts
+4. **Skills Development** — training spend and learner numbers
 5. **Enterprise & Supplier Development** — supplier data + contributions
 6. **Socio-Economic Development** — community contribution records
 
@@ -622,4 +622,4 @@ For issues related to B-BBEE rule interpretation, please cite the relevant secti
 
 MIT License — see [LICENSE](LICENSE) for details.
 
-Built with ❤️ for the South African business community.
+Built for the South African business community.
